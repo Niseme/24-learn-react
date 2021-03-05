@@ -1,0 +1,13 @@
+.block {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #ccc;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 30px;
+}

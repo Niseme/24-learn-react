@@ -1,0 +1,15 @@
+.suggested-courses {
+  grid-area: suggested;
+}
+
+.suggested-courses > .courses-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.suggested-courses > .courses-list > .item {
+  background-color: lightpink;
+  padding: 10px;
+}

@@ -1,0 +1,8 @@
+.activity {
+  grid-area: activity;
+}
+
+.activity > .chart {
+  width: 100%;
+  background-color: lightcoral;
+}

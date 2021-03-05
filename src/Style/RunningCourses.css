@@ -1,0 +1,17 @@
+.running-courses {
+  grid-area: running;
+}
+
+.running-courses > .card-list {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  align-items: stretch;
+}
+.running-courses > .card-list > .card {
+  display: inline-block;
+  padding: 20px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  flex: 1;
+}
